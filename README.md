@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jch1013&label=Profile%20views&color=0e75b6&style=flat" alt="jch1013" /> </p>
 
-- 🔭 I’m currently working on [Chemical Modelling](https://github.com/jch1013/Chemical-Modelling)
+- 🔭 I’m currently working on [My Personal Website](https://github.com/jch1013/Personal-Website)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **jchayward1@gmail.com**
 
