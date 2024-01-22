@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jch1013&label=Profile%20views&color=0e75b6&style=flat" alt="jch1013" /> </p>
 
-- 🔭 I’m currently working on [Mountaineers Trip Notifications](https://github.com/jch1013/Personal-Website)
+- 🔭 I’m currently working on [Mountaineers Trip Notifications](https://github.com/jch1013/Mountaineers-Trip-Notifications)
 
 - 🌱 I’m currently learning **JavaScript**
 
