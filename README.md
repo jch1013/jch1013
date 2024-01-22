@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jch1013&label=Profile%20views&color=0e75b6&style=flat" alt="jch1013" /> </p>
 
-- 🔭 I’m currently working on [My Personal Website](https://github.com/jch1013/Personal-Website)
+- 🔭 I’m currently working on [Mountaineers Trip Notifications](https://github.com/jch1013/Personal-Website)
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **jchayward1@gmail.com**
+- 📫 How to reach me **jch13@seas.upenn.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
