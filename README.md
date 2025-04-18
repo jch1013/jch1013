@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Glacial Lake Segmentor](https://github.com/jch1013/Glacial-Lake-Segmentation)
 
-- 🌱 I’m currently learning **TensorFlowt**
+- 🌱 I’m currently learning **TensorFlow**
 
 - 📫 How to reach me **jch13@seas.upenn.edu**
 
