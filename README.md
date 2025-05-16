@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jackson Hayward</h1>
-<h3 align="center">Aspiring software engineer</h3>
+<h1 align="center">Hi! I'm Jackson</h1>
+<h3 align="center">I'm a recent CS Master's graduate looking to start my career as a software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jch1013&label=Profile%20views&color=0e75b6&style=flat" alt="jch1013" /> </p>
 
