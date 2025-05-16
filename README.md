@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jch1013&label=Profile%20views&color=0e75b6&style=flat" alt="jch1013" /> </p>
 
-- 🏔️ I’m currently working on [Glacial Lake Segmentor](https://github.com/jch1013/Glacial-Lake-Segmentation)
+- 🏔️ I’m currently building [Glacial Lake Segmentor](https://github.com/jch1013/Glacial-Lake-Segmentation)
 
 - 📝 I’m currently learning **TensorFlow**
 
-- 📫 How to reach me **jchayward1@gmail.com**
+- 📫 You can reach me at **jchayward1@gmail.com**
 
 - 👤 Learn more about me at [my website](https://jacksonhayward.com)
 
