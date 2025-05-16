@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 📫 How to reach me **jch13@seas.upenn.edu**
+- 📫 How to reach me **jchayward1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
